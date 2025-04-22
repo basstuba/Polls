@@ -1,0 +1,21 @@
+{
+  "python.defaultInterpreterPath": ".venv/bin/python",
+  "python.analysis.extraPaths": ["src"],
+  "python.analysis.autoSearchPaths": true,
+  "python.analysis.useLibraryCodeForTypes": true,
+  "cSpell.words": [
+    "createapp",
+    "createsuperuser",
+    "gethostname",
+    "makemigrations",
+    "mysqlclient",
+    "mysqld",
+    "phpmyadmin",
+    "runserver",
+    "secretkey",
+    "startapp",
+    "venv",
+    "yourappname"
+  ],
+  "makefile.configureOnOpen": false
+}
