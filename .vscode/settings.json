@@ -17,5 +17,19 @@
     "venv",
     "yourappname"
   ],
-  "makefile.configureOnOpen": false
+  "makefile.configureOnOpen": false,
+  "emmet.includeLanguages": {
+    "django-html": "html"
+  },
+  "files.associations": {
+    "*.html": "django-html"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "html.validate.styles": false,
+  "html.validate.scripts": false,
+  "[django-html]": {
+    "editor.formatOnSave": false
+  }
 }
